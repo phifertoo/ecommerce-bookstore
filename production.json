@@ -1,0 +1,8 @@
+{
+  "PORT": "8000",
+  "MONGO_URI": "mongodb+srv://phifertoo:Dolphins23@ecommerce-cidi3.mongodb.net/test?retryWrites=true&w=majority",
+  "JWT_SECRET": "randomString",
+  "BRAINTREE_MERCHANT_ID": "f9sw582gph2rbct8",
+  "BRAINTREE_PUBLIC_KEY": "j7r8ys88ymnvky4n",
+  "BRAINTREE_PRIVATE_KEY": "3265dcdd50a11a29249f037364b10e65"
+}
