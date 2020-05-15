@@ -57,6 +57,7 @@ app.use("/api", orderRoutes);
 into production. Node runs in the process environment */
 const port = process.env.PORT || 8000;
 
+//required for production
 if (process.env.NODE_ENV === "production") {
   // Exprees will serve up production assets
   app.use(express.static("ecommerce-front/build"));
